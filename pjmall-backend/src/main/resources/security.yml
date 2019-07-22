@@ -1,4 +1,10 @@
 server:
        basic:
-             enable: false                   
+             enable: false
+       user:
+            name: test
+            password: 1234
+       client:
+              client-id: pjmall-frontend
+              client-secret: 1234                   
          
